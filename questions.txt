@@ -1,0 +1,23 @@
+Q1. Hand written digits classification using MLP and CNN using keras.
+https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/ 
+
+Q2. Hand written digits classification using MLP and CNN using Tensorflow
+https://www.tensorflow.org/tutorials/estimators/cnn
+
+Q3. An Interactive Character-Level Language Model tensorflow implentaion using LSTM.
+https://theblog.github.io/post/character-language-model-lstm-tensorflow/
+
+Q4. Predicting reviews using tensorflow 
+https://medium.com/@Currie32/predicting-movie-review-sentiment-with-tensorflow-and-tensorboard-53bf16af0acf
+
+Q5. Sentiment analysis on twitter date using keras
+https://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html
+
+Q6. Variational auto encoder to reconstruct the image keras
+https://github.com/keras-team/keras/blob/master/examples/variational_autoencoder.py
+
+Q7. Variational auto encoder to reconstruct the image using tensorflow 
+https://jmetzen.github.io/2015-11-27/vae.html
+
+Q8. Gated recurrent unit implementation using tensorflow and keras for next character prediction.
+https://gist.github.com/kmjjacobs/eab1e840aecf0ac232cc8370a9be9093
